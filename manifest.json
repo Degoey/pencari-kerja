@@ -1,0 +1,26 @@
+{
+  "name": "Pencari Kerja - AI Job Search",
+  "short_name": "Pencari Kerja",
+  "description": "Aplikasi pencarian kerja, pembuatan CV, dan pelamar untuk umum. Buat profil, cari lowongan, dan kirim lamaran dari HP Android.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1b3a6b",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
